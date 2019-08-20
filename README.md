@@ -1,3 +1,7 @@
 # helloWorld
 this is my fist github modify111
-add new branch feature2
+<<<<<<< HEAD
+add new branch feature1
+=======
+add new branch feature1
+>>>>>>> feature1
